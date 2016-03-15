@@ -7,6 +7,9 @@
     <option name="COLLAPSE_IMPORTS" value="false" />
     <option name="COLLAPSE_FILE_HEADER" value="false" />
   </component>
+  <component name="CodeInsightSettings">
+    <option name="SMART_INDENT_ON_ENTER" value="false" />
+  </component>
   <component name="CssFoldingSettings">
     <option name="collapseDataUri" value="false" />
   </component>
