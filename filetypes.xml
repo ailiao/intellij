@@ -4,6 +4,7 @@
       <mapping pattern="confd" type="PLAIN_TEXT" />
       <mapping pattern="ConfigurationTest" type="PLAIN_TEXT" />
       <mapping ext="conf" type="PLAIN_TEXT" />
+      <mapping ext="ebuild" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
