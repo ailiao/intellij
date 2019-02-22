@@ -1,8 +1,9 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
-      <mapping pattern="initd" type="PLAIN_TEXT" />
+      <mapping ext="klib" type="ARCHIVE" />
       <mapping pattern="confd" type="PLAIN_TEXT" />
+      <mapping pattern="initd" type="PLAIN_TEXT" />
       <mapping pattern="ConfigurationTest" type="PLAIN_TEXT" />
       <mapping ext="conf" type="PLAIN_TEXT" />
       <mapping ext="ebuild" type="PLAIN_TEXT" />
